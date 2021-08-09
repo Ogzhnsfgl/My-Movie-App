@@ -2,7 +2,7 @@
 
 My-Movies App created with React, Bootstrap5 and use Json Server as database.
 
-My Movies App allows you add, edit or delete movie from your local database.
+My Movies App allows you add, edit or delete movie from JSON-Server.
 
 ## Soon
 
